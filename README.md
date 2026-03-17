@@ -45,6 +45,21 @@ To configure a LoRaWAN end device and monitor IR sensor data using a network ser
 <img width="1919" height="1140" alt="Screenshot 2026-03-17 103948" src="https://github.com/user-attachments/assets/906a035a-8aab-4d7c-b609-9904ca66efb7" />
 
 ### 4. Relay Status Dashboard Output
+<img width="1919" height="1137" alt="Screenshot 2026-03-17 112720" src="https://github.com/user-attachments/assets/b659ec0f-e22d-49dd-ae6a-5935f06b2a57" />
+<img width="1919" height="1132" alt="Screenshot 2026-03-17 112740" src="https://github.com/user-attachments/assets/2fd179fe-7dec-46d5-9b62-2feeae1938aa" />
+<img width="1918" height="1139" alt="Screenshot 2026-03-17 112759" src="https://github.com/user-attachments/assets/d858432d-03b3-4880-9d4f-905838739ec3" />
+<img width="1917" height="1133" alt="Screenshot 2026-03-17 112926" src="https://github.com/user-attachments/assets/71b46e61-1a95-4f6e-a5c2-3168a3c6d4fa" />
+<img width="1915" height="1130" alt="Screenshot 2026-03-17 112948" src="https://github.com/user-attachments/assets/7a24c809-aae6-4305-80b3-2c22d34beda4" />
+<img width="1919" height="1129" alt="Screenshot 2026-03-17 113116" src="https://github.com/user-attachments/assets/356c97bd-40b5-4eae-938b-137e03003d54" />
+<img width="1919" height="1123" alt="Screenshot 2026-03-17 113132" src="https://github.com/user-attachments/assets/d2698ba3-161a-4106-b6c1-c3692c57d80b" />
+<img width="1917" height="1123" alt="Screenshot 2026-03-17 113154" src="https://github.com/user-attachments/assets/ccd7f21a-e5eb-48cc-a2fc-79286ad512b2" />
+<img width="1919" height="1134" alt="Screenshot 2026-03-17 113207" src="https://github.com/user-attachments/assets/c628a383-3099-4b62-8cdd-45383566eccf" />
+<img width="1918" height="1138" alt="Screenshot 2026-03-17 113226" src="https://github.com/user-attachments/assets/2f48c2b8-69e3-4359-bfce-92777c52b8da" />
+<img width="1919" height="1134" alt="Screenshot 2026-03-17 122931" src="https://github.com/user-attachments/assets/9547b6b7-5c95-4c3c-8c05-edee33b9943f" />
+<img width="1915" height="1131" alt="Screenshot 2026-03-17 122950" src="https://github.com/user-attachments/assets/c1434168-7b05-43eb-a6f7-6d44c04e1055" />
+<img width="1919" height="1131" alt="Screenshot 2026-03-17 123005" src="https://github.com/user-attachments/assets/c009ecff-0380-46e0-b3f8-93aff25c3f66" />
+<img width="1919" height="1144" alt="Screenshot 2026-03-17 123016" src="https://github.com/user-attachments/assets/ee77187a-5922-4675-a393-ae6d6fb28c85" />
+<img width="1919" height="1144" alt="Screenshot 2026-03-17 123117" src="https://github.com/user-attachments/assets/1de3c6a4-3ef3-49e6-801a-8a6c8b53a98e" />
 
 ### Bulb ON → Relay ON 
 <img width="1920" height="1200" alt="Screenshot 2026-03-13 172907" src="https://github.com/user-attachments/assets/42e53698-7405-498c-bce1-8ff1d534f2c7" />
