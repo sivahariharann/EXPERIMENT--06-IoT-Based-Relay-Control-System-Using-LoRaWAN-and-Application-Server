@@ -24,6 +24,14 @@ To configure a LoRaWAN end device and monitor IR sensor data using a network ser
 9. Create a dashboard on the application server by clicking the Add Dashboard option.
 10. Add widgets and commands to visualize the relay status data.
 11. Send control commands from the dashboard to control the relay.
+<img width="1919" height="1128" alt="Screenshot 2026-03-17 123722" src="https://github.com/user-attachments/assets/c8381a08-4d74-4043-ae1e-48d7c05e3d8e" />
+<img width="1918" height="1126" alt="Screenshot 2026-03-17 123741" src="https://github.com/user-attachments/assets/2ee3184b-41df-4c10-b053-433f2ace1974" />
+<img width="1919" height="1139" alt="Screenshot 2026-03-17 123820" src="https://github.com/user-attachments/assets/6a15c774-d70b-48a3-a734-43ff81b4f92c" />
+<img width="1915" height="1139" alt="Screenshot 2026-03-17 123905" src="https://github.com/user-attachments/assets/93ca8471-2504-403e-8ba8-7a774979dcf4" />
+<img width="1919" height="1140" alt="Screenshot 2026-03-17 123929" src="https://github.com/user-attachments/assets/435025ed-d1e8-4c14-a52c-0c2208719aca" />
+<img width="1919" height="1140" alt="Screenshot 2026-03-17 124116" src="https://github.com/user-attachments/assets/664935a7-b4f8-4aa4-a51a-3a2d49c4bc9d" />
+<img width="1919" height="1141" alt="Screenshot 2026-03-17 124140" src="https://github.com/user-attachments/assets/c879eb56-f95a-4f27-86c0-4f450e2514bf" />
+<img width="1919" height="1138" alt="Screenshot 2026-03-17 124402" src="https://github.com/user-attachments/assets/be94744c-39f3-4535-9e13-bf350a2336a9" />
 
 ## Output
 ### 1. Serial Port Utility – Network Server Connection
